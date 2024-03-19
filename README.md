@@ -13,7 +13,8 @@ The analysis aims to answer several key questions to aid Instacart’s marketing
 + Examine customer profiles, including ordering habits and demographic differences.
 
 ## Data Source
-This project utilizes various open-source datasets from Instacart and a synthetic dataset for customer demographics. Included in the repository is a comprehensive data dictionary detailing the structure and content of these datasets. The datasets and data dictionary can be found at these links:
+This project utilizes various [open-source datasets] from Instacart and a [synthetic dataset] for customer demographics. Included in the repository is a comprehensive [data dictionary] detailing the structure and content of these datasets. 
+
 
 ## Methodology
 The analysis employs Python for data processing and exploratory analysis, utilizing libraries such as pandas, numpy, matplotlib, scipy, and seaborn for data manipulation and visualization. Key steps include:
@@ -25,8 +26,8 @@ The analysis employs Python for data processing and exploratory analysis, utiliz
 ## Deliverables
 The repository contains the following deliverables:
 
-+ Python Code: Scripts used for data analysis.
-+ Visualizations: Charts and graphs illustrating key findings.
-+ Excel Report: A comprehensive report encompassing analysis methods, visualizations, and strategic recommendations.
++ [Python Code]: Scripts used for data analysis.
++ [Visualizations]: Charts and graphs illustrating key findings.
++ [Excel Report]: A comprehensive report encompassing analysis methods, visualizations, and strategic recommendations.
 
 This project combines data analytics and visualization techniques to uncover customer behaviors and sales patterns, offering actionable insights for Instacart’s targeted marketing strategies and showcasing skills in strategic business analysis.
