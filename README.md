@@ -13,7 +13,7 @@ The analysis aims to answer several key questions to aid Instacart’s marketing
 + Examine customer profiles, including ordering habits and demographic differences.
 
 ## Data Source
-This project utilizes various open-source datasets from Instacart that includes detailed information about customer orders, product selections, and transaction times. A synthetic dataset was also used that provides insights into the demographic profiles of customers, including age, income, family status, and region. 
+This project utilizes various open-source datasets from Instacart that include detailed information about customer orders, product selections, and transaction times. A synthetic dataset was also used that provides insights into the demographic profiles of customers, including age, income, family status, and region. 
 
 ## Methodology
 The analysis employs Python for data processing and exploratory analysis, utilizing libraries such as pandas, numpy, matplotlib, scipy, and seaborn for data manipulation and visualization. Key steps include:
