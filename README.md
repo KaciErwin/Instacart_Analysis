@@ -27,6 +27,6 @@ The repository contains the following deliverables:
 
 + [Python Code](<Instacart Scripts>): Scripts used for data analysis.
 + [Visualizations](<Instacart Visualizations>): Charts and graphs illustrating key findings.
-+ [Excel Report]: A comprehensive report encompassing analysis methods, visualizations, and strategic recommendations.
++ [Excel Report](<Instacart Final Report.xlsx>): A comprehensive report encompassing analysis methods, visualizations, and strategic recommendations.
 
 This project combines data analytics and visualization techniques to uncover customer behaviors and sales patterns, offering actionable insights for Instacart’s targeted marketing strategies and showcasing skills in strategic business analysis.
